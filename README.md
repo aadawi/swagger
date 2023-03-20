@@ -14,5 +14,6 @@ id "org.openapi.generator" version "6.4.0"
 ```
 
 ###### gradle command
+```
 gradle clean generateOpenApiDocs openApiGenerate
-
+```
